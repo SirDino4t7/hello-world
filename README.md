@@ -1,6 +1,6 @@
 # hello-world
-yeah
-A bit about myself
-I'm apparently a human
-I don't want to be here
-I want to live elsewhere
+
+A bit about myself:
+I'm apparently a human.
+I don't want to be here.
+I want to live elsewhere.
